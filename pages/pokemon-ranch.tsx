@@ -52,7 +52,7 @@ export default function PokemonRanch() {
                     <h2>Development</h2>
                     <p>
                         This project was coded in React and styled with plain CSS, while using certain UI components from Material UI. This project involved the creation of React components to better organize my code. This also involved the use of props to pass information between components and my App.js.
-                        <br/><br/>My project also involved the management of state using React's useState() tool to keep track of the various sortings, filters, team selections, and options selected by the user. My code is located on <a target="_blank" href="https://github.com/vegananteater125/development">this GitHub repository</a>, and is hosted on GitHub pages.
+                        <br/><br/>My project also involved the management of state using React's useState() tool to keep track of the various sortings, filters, team selections, and options selected by the user. My code is located on <a target="_blank" rel="noreferrer" href="https://github.com/vegananteater125/development">this GitHub repository</a>, and is hosted on GitHub pages.
                     </p>
                 </div>
 

@@ -24,7 +24,7 @@ export default function ExploreRI() {
                 <div id={projectStyles.subHeadline} className={projectStyles.section}>
                     <div className={projectStyles.subHeadline}>
                         <b>Visit:  </b>
-                        <a href="https://exploreri.org/gSiteReport2.php?siteID=102&src=siteList" target="_blank">Original Site</a> • <a href="https://vegananteater125.github.io/responsive-redesign/" target="_blank">Redesigned Site</a>
+                        <a href="https://exploreri.org/gSiteReport2.php?siteID=102&src=siteList" target="_blank" rel="noreferrer">Original Site</a> • <a href="https://vegananteater125.github.io/responsive-redesign/" target="_blank" rel="noreferrer">Redesigned Site</a>
                     </div>
 
                     <div className={projectStyles.subHeadline}>
@@ -36,7 +36,7 @@ export default function ExploreRI() {
                 <div id="overview" className={`${projectStyles.section} ${projectStyles.contentSection}`}>
                     <h2>Overview</h2>
                     <p>
-                        I decided to redesign <a href="https://exploreri.org/gSiteReport2.php?siteID=102&src=siteList" target="_blank">this page from Explore Rhode Island</a>,
+                        I decided to redesign <a href="https://exploreri.org/gSiteReport2.php?siteID=102&src=siteList" target="_blank" rel="noreferrer">this page from Explore Rhode Island</a>,
                         which is the first Google search result for a popular park close to where I live.
                         <br/><br/>
                         This was my first time redesigning and developing a public webpage.
@@ -178,7 +178,7 @@ export default function ExploreRI() {
                     <h2>Development</h2>
                     <p>
                         I developed a prototype of my redesign on the link below: <br/>
-                        <a href="https://vegananteater125.github.io/responsive-redesign/" target="_blank">vegananteater125.github.io/responsive-redesign/</a>
+                        <a href="https://vegananteater125.github.io/responsive-redesign/" target="_blank" rel="noreferrer">vegananteater125.github.io/responsive-redesign/</a>
                         <br/>
                         <br/>
                         <b>Images used:</b>

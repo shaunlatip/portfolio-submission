@@ -21,7 +21,7 @@ export default function Circular() {
         <div id={projectStyles.subHeadline} className={projectStyles.section}>
           <div className={projectStyles.subHeadline}>
           <b>Visit:  </b>
-                <a href="https://www.ycombinator.com/companies/circular" target="_blank">Circular's YC Page</a> • <a href="https://www.figma.com/proto/OCjo8lVwty9xodJxQsX54j/Circular%3A-Initial-High-Fidelity-Mockups?node-id=1%3A99&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A99&fbclid=IwAR2tHjtlL-tSsfecCNyjQ0dKjvnCk_WXrvwwNm1wfTG7zdTSAhrbjnf-g80" target="_blank">Initial Mockups</a> • <a href="https://www.figma.com/proto/K7SHNKZf5nZClK20VV4FFr/Circular%3A-Updated-High-Fidelity-Mockups?node-id=1%3A98&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A98&fbclid=IwAR0_rRgceDHtxL_gZPN3l1jpFmt0Uz7SB9XVXeVftDZ4612h5drFGQn9pN8" target="_blank">Updated Mockups</a> 
+                <a href="https://www.ycombinator.com/companies/circular" target="_blank" rel="noreferrer">Circular's YC Page</a> • <a href="https://www.figma.com/proto/OCjo8lVwty9xodJxQsX54j/Circular%3A-Initial-High-Fidelity-Mockups?node-id=1%3A99&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A99&fbclid=IwAR2tHjtlL-tSsfecCNyjQ0dKjvnCk_WXrvwwNm1wfTG7zdTSAhrbjnf-g80" target="_blank" rel="noreferrer">Initial Mockups</a> • <a href="https://www.figma.com/proto/K7SHNKZf5nZClK20VV4FFr/Circular%3A-Updated-High-Fidelity-Mockups?node-id=1%3A98&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A98&fbclid=IwAR0_rRgceDHtxL_gZPN3l1jpFmt0Uz7SB9XVXeVftDZ4612h5drFGQn9pN8" target="_blank" rel="noreferrer">Updated Mockups</a> 
           </div>
 
           <div className={projectStyles.subHeadline}>
@@ -76,7 +76,7 @@ export default function Circular() {
           <iframe className={projectStyles.desktopFrame} src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FOCjo8lVwty9xodJxQsX54j%2FCircular%253A-Initial-High-Fidelity-Mockups%3Fnode-id%3D1%253A99%26t%3D6hUOivWMhTGj7ZBT-1"></iframe>
           <p>
             <b>To interact with the mockup directly, please click this link:</b>
-            <br/> <a href="https://www.figma.com/proto/OCjo8lVwty9xodJxQsX54j/Circular%3A-Initial-High-Fidelity-Mockups?node-id=1%3A99&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A99&fbclid=IwAR2tHjtlL-tSsfecCNyjQ0dKjvnCk_WXrvwwNm1wfTG7zdTSAhrbjnf-g80" target="_blank">Interact with our Mockup</a>
+            <br/> <a href="https://www.figma.com/proto/OCjo8lVwty9xodJxQsX54j/Circular%3A-Initial-High-Fidelity-Mockups?node-id=1%3A99&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A99&fbclid=IwAR2tHjtlL-tSsfecCNyjQ0dKjvnCk_WXrvwwNm1wfTG7zdTSAhrbjnf-g80" target="_blank" rel="noreferrer">Interact with our Mockup</a>
                
           </p>
           <h3>Design Considerations</h3>
@@ -421,7 +421,7 @@ export default function Circular() {
           <iframe className={projectStyles.desktopFrame} src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FK7SHNKZf5nZClK20VV4FFr%2FCircular%253A-Updated-High-Fidelity-Mockups%3Fnode-id%3D1%253A98%26t%3DqSttu9A9EuBSZqen-1"></iframe>
           <p>
             <b>To interact with the mockup directly, please click this first link:</b>
-            <br/> <a href="https://www.figma.com/proto/K7SHNKZf5nZClK20VV4FFr/Circular%3A-Updated-High-Fidelity-Mockups?node-id=1%3A98&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A98&fbclid=IwAR0_rRgceDHtxL_gZPN3l1jpFmt0Uz7SB9XVXeVftDZ4612h5drFGQn9pN8" target="_blank">Interact with our Mockup</a>
+            <br/> <a href="https://www.figma.com/proto/K7SHNKZf5nZClK20VV4FFr/Circular%3A-Updated-High-Fidelity-Mockups?node-id=1%3A98&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A98&fbclid=IwAR0_rRgceDHtxL_gZPN3l1jpFmt0Uz7SB9XVXeVftDZ4612h5drFGQn9pN8" target="_blank" rel="noreferrer">Interact with our Mockup</a>
             <br/><br/> After our critique feedback, we then implemented all the above solutions towards a revision of our initial mockup. 
           </p>
 
